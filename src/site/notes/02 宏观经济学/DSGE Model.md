@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 宏观经济学/DSGE Model/","created":"2023-06-18T16:33:14.324+08:00","updated":"2024-03-31T20:29:09.304+08:00"}
+{"dg-publish":true,"permalink":"/02 宏观经济学/DSGE Model/","created":"2023-06-18T16:33:14.324+08:00","updated":"2024-03-31T20:35:27.837+08:00"}
 ---
 
 ## 消费者
@@ -39,7 +39,7 @@ $$
 由 $(1)(2)$ 可得
 $$
 \frac{\frac{1-\gamma}{1-L_{t}}}{\frac{\gamma}{C_{t}}}=w_{t}\implies \frac{1-\gamma}{\gamma} \frac{C_{t}}{1-L_{t}}=w_{t}
-$$ which in fact is in [[01 微观经济学/效用最大化\|效用最大化]]
+$$ which in fact is in [[01 微观经济学/效用最大化\|效用最大化]] 
 $$
 \frac{U_{O}}{U_{C}}=\frac{P_{O}}{P_{C}}=\frac{w_{t}}{1}
 $$
@@ -47,7 +47,7 @@ $$
 $$
 \frac{C_{t}}{C_{t-1}}=\beta(1+r_{t}-\delta)
 $$
-which exactly in [[01 微观经济学/跨期效用最大化\|跨期效用最大化]]
+which exactly in [[01 微观经济学/跨期效用最大化\|跨期效用最大化]] 
 $$
 \frac{U_{C,t-1}}{U_{C,t}}=\beta(1+r_{t}-\delta)
 $$
