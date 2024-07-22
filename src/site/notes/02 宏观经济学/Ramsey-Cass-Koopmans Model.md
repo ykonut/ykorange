@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 宏观经济学/Ramsey-Cass-Koopmans Model/","created":"2024-03-06T20:21:22.871+08:00","updated":"2024-06-18T18:16:46.010+08:00"}
+{"dg-publish":true,"permalink":"/02 宏观经济学/Ramsey-Cass-Koopmans Model/","created":"2024-03-06T20:21:22.871+08:00","updated":"2024-06-23T22:09:49.595+08:00"}
 ---
 
 
@@ -362,4 +362,3 @@ $$
 \rho-n-(1-\theta)g>0\implies f'(\hat{k})>f'(k_{g})\implies \hat{k}<k_{g}
 $$
 
-$\xrightarrow{d}$
