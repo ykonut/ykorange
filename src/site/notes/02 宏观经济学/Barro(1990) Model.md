@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 宏观经济学/Barro(1990) Model/","created":"2024-04-12T16:02:12.902+08:00","updated":"2024-06-18T18:16:39.532+08:00"}
+{"dg-publish":true,"permalink":"/02 宏观经济学/Barro(1990) Model/","created":"2024-06-18T19:39:35.000+08:00","updated":"2024-06-18T19:39:35.000+08:00"}
 ---
 
 
@@ -77,7 +77,7 @@ A\alpha k(t)^{\alpha-1}g(t)^{1-\alpha} & =R(t) \\
 Ak(t)^\alpha g(t)^{1-\alpha}-A\alpha k(t)^{\alpha}g(t)^{1-\alpha} & =w(t)
 \end{align}
 $$
-根据 [[01 微观经济学/数理经济学/Cobb-Douglas函数\|Cobb-Douglas函数]]的性质可知
+根据 [[01 微观经济学/经济函数/Cobb-Douglas函数\|Cobb-Douglas函数]]的性质可知
 $$
 \frac{R(t)k(t)}{w(t)}=\frac{\alpha}{1-\alpha}
 $$

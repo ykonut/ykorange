@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 宏观经济学/经济波动/Real-Business-Cycle (RBC) Model/","created":"2023-06-18T16:32:55.041+08:00","updated":"2024-03-31T20:30:20.081+08:00"}
+{"dg-publish":true,"permalink":"/02 宏观经济学/经济波动/Real-Business-Cycle (RBC) Model/","created":"2024-07-25T11:41:02.000+08:00","updated":"2024-07-25T11:41:02.000+08:00"}
 ---
 
 ## 消费者

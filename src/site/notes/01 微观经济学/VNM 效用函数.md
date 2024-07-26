@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 微观经济学/数理经济学/VNM 效用函数/","created":"2024-07-25T11:41:12.000+08:00","updated":"2024-07-25T11:41:12.000+08:00"}
+{"dg-publish":true,"permalink":"/01 微观经济学/VNM 效用函数/","tags":["金融经济学"],"created":"2024-07-22T16:48:26.000+08:00","updated":"2024-07-22T16:48:26.000+08:00"}
 ---
 
 **Definition** The utility function $u:\mathcal{G}\to \mathbb{R}$ *has the expected utility property* if, for every $g\in \mathcal{G}$,

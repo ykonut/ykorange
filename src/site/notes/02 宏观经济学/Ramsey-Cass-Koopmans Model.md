@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 宏观经济学/Ramsey-Cass-Koopmans Model/","created":"2024-03-06T20:21:22.871+08:00","updated":"2024-06-23T22:09:49.595+08:00"}
+{"dg-publish":true,"permalink":"/02 宏观经济学/Ramsey-Cass-Koopmans Model/","created":"2024-06-23T22:10:50.000+08:00","updated":"2024-06-23T22:10:50.000+08:00"}
 ---
 
 
@@ -86,7 +86,7 @@ F_{K}(K(t),L(t)) & =R(t) \\
 F_{L}(K(t),L(t)) & =w(t)
 \end{align}
 $$
-根据[[01 微观经济学/数理经济学/齐次函数#欧拉定理\|齐次函数#欧拉定理]]可知
+根据[[01 微观经济学/经济函数/齐次函数#欧拉定理\|齐次函数#欧拉定理]]可知
 $$
 \begin{align}
 F_{K}(K,L) & =f'(k) \\

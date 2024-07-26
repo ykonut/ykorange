@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 宏观经济学/经济波动/DSGE Model/","created":"2023-06-18T16:33:14.324+08:00","updated":"2024-03-31T20:35:27.837+08:00"}
+{"dg-publish":true,"permalink":"/02 宏观经济学/经济波动/DSGE Model/","created":"2024-07-25T11:41:10.000+08:00","updated":"2024-07-25T11:41:10.000+08:00"}
 ---
 
 ## 消费者
@@ -117,11 +117,11 @@ $$
 \frac{\partial \Pi_{t}}{\partial L_{t}} &=(1-\alpha)A_{t}K_{t}^\alpha L_{t}^{-\alpha}-w_{t}=0
 \end{align*}
 $$
-which implies（[[01 微观经济学/数理经济学/Cobb-Douglas函数#利润最大化\|Cobb-Douglas函数#利润最大化]]的性质）
+which implies（[[01 微观经济学/经济函数/Cobb-Douglas函数#利润最大化\|Cobb-Douglas函数#利润最大化]]的性质）
 $$
 \frac{r_{t}K_{t}}{w_{t}L_{t}}=\frac{\alpha}{1-\alpha}
 $$
-and（[[01 微观经济学/数理经济学/CRS函数\|CRS函数]]的性质）
+and（[[01 微观经济学/经济函数/CRS函数\|CRS函数]]的性质）
 $$
 \begin{align*}
 r_{t}K_{t}&=\alpha Y_{t} \\

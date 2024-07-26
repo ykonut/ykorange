@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 宏观经济学/Solow Model/","created":"2024-02-27T20:15:03.943+08:00","updated":"2024-06-22T21:29:16.588+08:00"}
+{"dg-publish":true,"permalink":"/02 宏观经济学/Solow Model/","created":"2024-06-22T21:39:11.000+08:00","updated":"2024-06-22T21:39:11.000+08:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 1. 劳动增强型（labor-augumenting/Harrod-neutral) ：$Y=F(K,AL)$
 2. 资本增强型（capital-augumenting）：$Y=F(AK,L)$
 3. 平衡增强型（Hicks-neutral）： $Y=AF(K,L)$
-> [[01 微观经济学/数理经济学/Cobb-Douglas函数\|Cobb-Douglas函数]] 的同时符合上述三种形式往往有解。 
+> [[01 微观经济学/经济函数/Cobb-Douglas函数\|Cobb-Douglas函数]] 的同时符合上述三种形式往往有解。 
 
 ### 生产函数的特征
 
@@ -134,7 +134,7 @@ $$
 $$
 其中 $\alpha_{k}=\frac{k^*f'(k^*)}{f(k^*)}$ 可以看作归属劳均资本的产出份额。
 
-为什么？根据[[01 微观经济学/数理经济学/齐次函数#欧拉定理\|齐次函数#欧拉定理]]
+为什么？根据[[01 微观经济学/经济函数/齐次函数#欧拉定理\|齐次函数#欧拉定理]]
 $$
 \begin{align}
 F(K,AL) & =K\frac{ \partial F }{ \partial K }+AL\frac{ \partial F }{ \partial AL }  \\

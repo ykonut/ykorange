@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 计量经济学/Conditional Expectation Function/","created":"2023-06-18T16:32:56.127+08:00","updated":"2024-03-31T20:24:44.281+08:00"}
+{"dg-publish":true,"permalink":"/03 计量经济学/Conditional Expectation Function/","created":"2024-05-22T16:36:04.000+08:00","updated":"2024-05-22T16:36:04.000+08:00"}
 ---
 
 

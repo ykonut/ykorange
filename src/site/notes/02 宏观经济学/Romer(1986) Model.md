@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 宏观经济学/Romer(1986) Model/","created":"2024-04-04T15:20:05.757+08:00","updated":"2024-06-18T18:17:17.862+08:00"}
+{"dg-publish":true,"permalink":"/02 宏观经济学/Romer(1986) Model/","created":"2024-06-18T19:39:34.000+08:00","updated":"2024-06-18T19:39:34.000+08:00"}
 ---
 
 

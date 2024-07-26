@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 宏观经济学/Overlapping Generations Model/","created":"2024-06-22T16:12:34.308+08:00","updated":"2024-06-22T21:02:27.246+08:00"}
+{"dg-publish":true,"permalink":"/02 宏观经济学/Overlapping Generations Model/","created":"2024-07-25T11:41:02.000+08:00","updated":"2024-07-25T11:41:02.000+08:00"}
 ---
 
 
