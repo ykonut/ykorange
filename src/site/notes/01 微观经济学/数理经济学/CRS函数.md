@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 微观经济学/数理经济学/CRS函数/","title":"CRS","tags":["数理经济学"],"created":"2024-07-22T12:06:32.000+08:00","updated":"2024-07-22T12:06:32.000+08:00"}
+{"dg-publish":true,"permalink":"/01 微观经济学/数理经济学/CRS函数/","title":"CRS","tags":["数理经济学"],"created":"2024-07-22T12:06:32.000+08:00","updated":"2024-09-09T10:51:00.494+08:00"}
 ---
 
 定义：若 $f:\mathbb{R}^{n+m}\to\mathbb{R}$ 是自变量 $\mathbf{x}\in \mathbb{R}^n$ 和 $\mathbf{y}\in\mathbb{R}^m$ 的函数，满足

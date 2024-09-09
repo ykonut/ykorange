@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ykorange/","tags":["gardenEntry"],"created":"2024-07-25T11:41:32.000+08:00","updated":"2024-07-25T11:41:32.000+08:00"}
+{"dg-publish":true,"permalink":"/ykorange/","tags":["gardenEntry"],"created":"2024-07-25T11:41:32.000+08:00","updated":"2024-09-09T10:22:20.494+08:00"}
 ---
 
 你好！欢迎来到我的个人网址，目前这个网站正在建设中，网站内容也还没有明确的规划。本文暂且和你分享一些我个人非常喜欢的软件工具。这些软件工具我都曾使用过或正在使用，希望这些工具也能够让你的工作更有效率，让你的生活变得更加美好。
@@ -40,16 +40,16 @@
 - 用于多端同步笔记的 `Remotely Save`
 - 改善中文输入体验的 `Easy Typing`
 - 输入数学公式的好帮手 `Latex Suite`
-- 搭建了我这个网站的 `Digital Garden`
+- 搭建了这个网站的 `Digital Garden`
 
-[Zotero](https://www.zotero.org/) 免费的文献管理工具，中国期刊引文格式可以在[这里](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl)下载，以及一些插件：
-- 添加中文文献必备的[雪绒花](https://github.com/l0o0/jasminum)
-- 翻译外文文献的[翻译器](https://github.com/windingwind/zotero-pdf-translate)
-- 翻译器可以搭配 [DeepLX](https://github.com/OwO-Network/DeepLX) 无限调用 DeepL 进行翻译
+[Zotero](https://www.zotero.org/) 免费的文献管理工具，中国期刊引文格式可以在[这里](https://zotero-chinese.com/styles/)下载，以及一些插件：
+- [jasminum](https://github.com/l0o0/jasminum)：自动获取中文文献元数据
+- [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)：翻译外文 PDF（建议搭配 [DeepLX](https://github.com/OwO-Network/DeepLX) 使用）
+- [zotero-scipdf](https://github.com/syt2/zotero-scipdf)：从 Sci-Hub 获取文献 PDF
 
 [Goldendict](https://github.com/goldendict/goldendict) 丑但好用的本地词典，词典文件可以去 [FreeMdict Download](https://downloads.freemdict.com/) 资源库下载，或者在 [FreeMdict Search](https://search.freemdict.com/) 搜索词典名称。
 
-[Calibre](https://calibre-ebook.com/zh_CN) 方便地管理大量（可以是海量）电子书。
+[Calibre](https://calibre-ebook.com/zh_CN) 方便地管理大量（甚至海量）电子书。
 
 [Inkscape](https://inkscape.org/) 免费的矢量图绘制软件。
 

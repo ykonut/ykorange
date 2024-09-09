@@ -77,7 +77,7 @@ A\alpha k(t)^{\alpha-1}g(t)^{1-\alpha} & =R(t) \\
 Ak(t)^\alpha g(t)^{1-\alpha}-A\alpha k(t)^{\alpha}g(t)^{1-\alpha} & =w(t)
 \end{align}
 $$
-根据 [[01 微观经济学/经济函数/Cobb-Douglas函数\|Cobb-Douglas函数]]的性质可知
+根据 [[01 微观经济学/数理经济学/Cobb-Douglas函数\|Cobb-Douglas函数]]的性质可知
 $$
 \frac{R(t)k(t)}{w(t)}=\frac{\alpha}{1-\alpha}
 $$
