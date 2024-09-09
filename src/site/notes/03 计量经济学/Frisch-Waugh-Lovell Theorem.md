@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 计量经济学/Frisch-Waugh-Lovell Theorem/","created":"2024-05-22T16:36:06.000+08:00","updated":"2024-09-09T19:43:58.131+08:00"}
+{"dg-publish":true,"permalink":"/03 计量经济学/Frisch-Waugh-Lovell Theorem/","created":"2024-05-22T16:36:06.000+08:00","updated":"2024-09-09T19:59:01.081+08:00"}
 ---
 
 ## 分块回归
@@ -173,3 +173,5 @@ $$
 \beta_{D}=\frac{E[Vae(D\mid X)\Delta(X)]}{E[Var(D\mid X)]}
 $$
 即 $\beta_{D}$ 是条件处理效应朴素估计量关于条件方差 $Var(D\mid X)$ 的加权平均值。
+
+结合[[03 计量经济学/因果推断/潜在结果框架\|潜在结果框架]]，如果满足强可忽略性假设，则 $\Delta(X)=ATT(X)$；进一步，如果处理效应 $TE$ 没有异质性，则 $ATT(X)=TE$ 为常数，此时 $\beta_{D}=TE$ 具有因果解释。由此可见，线性回归要具有因果解释需要强可忽略性+处理效应同质性这样困难无比的前提。
