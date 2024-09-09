@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 计量经济学/Frisch-Waugh-Lovell Theorem/","created":"2024-05-22T16:36:06.000+08:00","updated":"2024-09-09T10:37:29.950+08:00"}
+{"dg-publish":true,"permalink":"/03 计量经济学/Frisch-Waugh-Lovell Theorem/","created":"2024-05-22T16:36:06.000+08:00","updated":"2024-09-09T19:43:58.131+08:00"}
 ---
 
 ## 分块回归
@@ -114,37 +114,62 @@ $$
 $$
 ## 应用：回归与匹配
 
-考虑离散变量的饱和回归，其中 $D$ 是虚拟变量
+假设以下模型关于离散变量 $X$ 是饱和的，$D$ 是二元变量。
 $$
-Y=\beta_{D}D+W^{\mathsf{T}}\beta_{W}+e
+Y=\beta_{D}D+X^{\mathsf{T}}\beta_{X}+e
 $$
-注意到
+根据 F-W-L 定理，$\beta_{D}$ 相当于 $Y$ 对 $\tilde{D}$ 回归的系数，而 $\tilde{D}$ 是 $D$ 对 $X$ 回归的残差，即
 $$
-\begin{align}
-\beta_{D} & =\frac{Cov(Y,\tilde{D})}{Var(\tilde{D})} \\
- & =\frac{E\{[D-E(D\mid W)]E(Y\mid D,W)\}}{E[(D-E[D\mid X])^{2}]} \\
-\end{align}
+\tilde{D}\equiv D-E(D\mid X)
 $$
-其中，第一个等式来自 FWL 定理，第二个等式来自 $Y$ 和 $E(Y\mid D,W)$ 线性投影的等价性。
+> [!NOTE]
+> 这里直接利用了 [[03 计量经济学/Linear CEF Model\|Linear CEF Model]] 的设定，不过并未假设 $E[D\mid X]$ 是线性的。这是因为若模型关于 $X$ 是饱和的，则 $E[D\mid X]$ 必然是线性的。
 
-我们定义
+根据 [[03 计量经济学/Linear Projection Model#求解参数\|Linear Projection Model#求解参数]] 可知
 $$
-\delta_{W}\equiv E(Y\mid D=1,W)-E(Y\mid D=0,W)
+\beta_{D} =\frac{E[\tilde{D}Y]}{E[\tilde{D}^{2}]}=\frac{E[\tilde{D}E(Y\mid \tilde{D})]}{E[\tilde{D}^{2}]}=\frac{E[\tilde{D}E(Y\mid D,X)]}{E[\tilde{D}^{2}]}
+$$
+接下来，定义条件处理效应朴素估计量
+$$
+\Delta(X)\equiv E(Y\mid D=1,X)-E(Y\mid D=0,X)
 $$
 从而有
 $$
-E(Y\mid D,W)=E(Y\mid D=0,W)+\delta_{W}D
+E(Y\mid D,X)=E(Y\mid D=0,X)+D\Delta(X)
 $$
-代入 $\beta_{D}$ 的分子部分可得
-$$
-E\{[D-E(D\mid W)]E(Y\mid D=0,W)\}+E\{[D-E(D\mid W)]\delta_{W}D\}
-$$
-第一项相当于 $D$ 对 $W$ 回归的误差和 $W$ 的函数的协方差，根据 [[03 计量经济学/Linear CEF Model#CEF Error\|Linear CEF Model#CEF Error]] 的性质可知等于 0，第二项（？），因此
+代入 $\beta_{D}$ 的分子部分，结合期望迭代法则可得
 $$
 \begin{align}
-\beta_{D} & =\frac{E\{[D-E(D\mid W)]^{2}\delta_{W}\}}{E\{[D-E(D\mid W)]^{2}\}} \\
- & =\frac{E\{E\left( [D-E(D\mid W)]^{2}\mid W \right) \delta_{W}\}}{E\{E\left( [D-E(D\mid W)]^{2}\mid W \right)\}} \\
- & =\frac{E[Var(D\mid W)\delta_{W}]}{E[Var(D\mid W)]}
+\beta_{D} & =\frac{E[\tilde{D}E(Y\mid D,X)]}{E[\tilde{D}^{2}]} \\
+ & =\frac{E[\tilde{D}E(Y\mid D=0,X)]}{E[\tilde{D}^{2}]}+\frac{E[\tilde{D}D\Delta(X)]}{E[\tilde{D}^{2}]} \\
+ & =\frac{E[\tilde{D}D\Delta(X)]}{E[\tilde{D}^{2}]} \\
+ & =\frac{E[E(\tilde{D}D\mid X)\Delta(X)]}{E[E(\tilde{D}^{2}\mid X)]}
 \end{align}
 $$
-由此可见，回归系数 $\beta_{D}$ 是处理效应 $\delta_{W}$ 关于条件方差 $Var(D\mid W)$ 的加权平均值。
+其中， $E(Y\mid D=0,X)$ 是关于 $X$ 的函数，根据 [[03 计量经济学/Linear CEF Model#CEF Error\|CEF Error]] 的性质可知该项为零。
+
+引理 1
+$$
+E(\tilde{D}D\mid X)=E(\tilde{D}^{2}\mid X)
+$$
+证明：$\tilde{D}$ 定义式两边同时乘上 $\tilde{D}$ 并取期望可得
+$$
+\begin{align}
+\tilde{D}^{2} & =\tilde{D}D-\tilde{D}E[D\mid X] \\
+E[\tilde{D}^{2}] & =E[\tilde{D}D]-E[\tilde{D}E(D\mid X)] \\
+E[E(\tilde{D}^{2}\mid X)] & =E[E(\tilde{D}D\mid X)]
+\end{align}
+$$
+其中，$E(D\mid X)$ 是关于 $X$ 的函数，根据 [[03 计量经济学/Linear CEF Model#CEF Error\|CEF Error]] 的性质可知 $E[\tilde{D}E(D\mid X)]=0$ ；最后一个等式源自期望迭代法则，证毕。
+
+引理 2：
+$$
+E(\tilde{D}^{2}\mid X)=E\{ [D-E(D\mid X)]^{2}\mid X \}=Var(D\mid X)
+$$
+证明：利用 $\tilde{D}$ 定义式即可。
+
+**综上所述：**
+$$
+\beta_{D}=\frac{E[Vae(D\mid X)\Delta(X)]}{E[Var(D\mid X)]}
+$$
+即 $\beta_{D}$ 是条件处理效应朴素估计量关于条件方差 $Var(D\mid X)$ 的加权平均值。
