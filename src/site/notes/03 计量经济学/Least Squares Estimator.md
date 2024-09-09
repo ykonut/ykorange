@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 计量经济学/Least Squares Estimator/","created":"2024-05-22T16:36:10.000+08:00","updated":"2024-09-09T10:36:38.008+08:00"}
+{"dg-publish":true,"permalink":"/03 计量经济学/Least Squares Estimator/","created":"2024-05-22T16:36:10.000+08:00","updated":"2024-09-09T18:16:41.097+08:00"}
 ---
 
 ## Definition
@@ -80,6 +80,7 @@ $$
 \mathbf{X}_{k-1}^{\mathsf{T}}
 \end{bmatrix}\mathbf{e}=\mathbf{0}\implies \mathbf{1}_{n}^{\mathsf{T}}\mathbf{e}=0\implies \bar{e}=0
 $$
+若自变量包含虚拟变量，则残差的分组均值为零。
 
 ---
 
