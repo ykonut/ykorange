@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 计量经济学/Frisch-Waugh-Lovell Theorem/","created":"2024-05-22T16:36:06.000+08:00","updated":"2024-09-09T20:05:51.216+08:00"}
+{"dg-publish":true,"permalink":"/03 计量经济学/Frisch-Waugh-Lovell Theorem/","created":"2024-05-22T16:36:06.000+08:00","updated":"2024-09-10T11:35:16.546+08:00"}
 ---
 
 ## 分块回归
@@ -172,6 +172,22 @@ $$
 $$
 \beta_{D}=\frac{E[Vae(D\mid X)\Delta(X)]}{E[Var(D\mid X)]}
 $$
-即 $\beta_{D}$ 是条件处理效应朴素估计量关于条件方差 $Var(D\mid X)$ 的加权平均值。相比之下，匹配估计量为 $\sum\Delta(X)P(X=x\mid D=1)$，因此回归和匹配的区别仅仅在于权重。
+注意到 $D$ 是一个服从条件二项分布的随机变量，因此有
+$$
+Var(D\mid X)=P(D=1\mid X)[1-P(D=1\mid X)]
+$$
+上式变为
+$$
+\beta_{D}=\frac{\sum \Delta(X=x)P(D=1\mid X=x)[1-P(D=1\mid X=x)]P(X=x)}{\sum P(D=1\mid X=x)[1-P(D=1\mid X=x)]P(X=x)}
+$$
+因此，回归估计量 $\beta_{D}$ 是 $\Delta(X=x)$ 的加权平均值。
 
-结合[[03 计量经济学/因果推断/潜在结果框架\|潜在结果框架]]，如果满足强可忽略性假设，则 $\Delta(X)=ATT(X)$ ；进一步，如果处理效应 $TE$ 没有异质性，则 $ATT(X)=TE$ 为常数，此时 $\beta_{D}=TE$ 具有因果解释。由此可见，线性回归要具有因果解释需要强可忽略性+处理效应同质性这样困难无比的前提。
+相比之下，使用贝叶斯公式和全概率公式，匹配估计量为
+$$
+\sum\Delta(X=x)P(X=x\mid D=1)=\frac{\sum\Delta(X=x)P(D=1\mid X=x)P(X=x)}{\sum P(D=1\mid X=x)P(X=x)}
+$$
+因此回归和匹配的区别仅仅在于权重，回归使用各层受处理的方差为权重，匹配使用各层受处理的概率为权重。例如，$P(D\mid=1\mid X=x)=\frac{1}{2}$ 时方差最大，即回归将最大权重赋予处理组和控制组数量相同的层。结合[[03 计量经济学/因果推断/潜在结果框架\|潜在结果框架]]，如果满足强可忽略性假设，则
+$$
+\Delta(X)=ATT(X)=ATU(X)=ATE(X)
+$$
+此时回归和匹配估计量都能识别因果效应。进一步，如果 $\Delta(X)$ 关于 $X$ 是同质的（即 $\Delta(X)$ 为常数），则回归和匹配估计量完全等价。
