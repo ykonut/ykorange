@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03 计量经济学/Frisch-Waugh-Lovell Theorem/","created":"2024-05-22T16:36:06.000+08:00","updated":"2024-09-10T11:35:16.546+08:00"}
+{"dg-publish":true,"permalink":"/03 计量经济学/Frisch-Waugh-Lovell Theorem/","created":"2024-05-22T16:36:06.000+08:00","updated":"2024-09-10T11:40:09.227+08:00"}
 ---
 
 ## 分块回归
@@ -123,7 +123,7 @@ $$
 \tilde{D}\equiv D-E(D\mid X)
 $$
 > [!NOTE]
-> 这里直接利用了 [[03 计量经济学/Linear CEF Model\|Linear CEF Model]] 的设定，不过并未假设 $E[D\mid X]$ 是线性的。这是因为若模型关于 $X$ 是饱和的，则 $E[D\mid X]$ 必然是线性的。
+> 这里直接利用了 [[03 计量经济学/Linear CEF Model\|Linear CEF Model]] 的设定，不过并未假设 $E[D\mid X]$ 是线性的。这是因为若模型关于 $X$ 是饱和的，则 $E[D\mid X]$ 必然是线性的。因此，如果要使用连续型的控制变量 $X$，必须额外假设 $D$ 关于 $X$ 是线性的才能得到本节结论。
 
 根据 [[03 计量经济学/Linear Projection Model#求解参数\|Linear Projection Model#求解参数]] 可知
 $$
