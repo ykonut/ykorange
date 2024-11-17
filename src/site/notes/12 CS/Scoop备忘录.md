@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/12 CS/Scoop备忘录/","created":"2024-07-25T11:41:27.000+08:00","updated":"2024-07-25T11:41:27.000+08:00"}
+{"dg-publish":true,"permalink":"/12 CS/Scoop备忘录/","created":"2024-07-25T11:41:27.000+08:00","updated":"2024-10-05T20:06:16.676+08:00"}
 ---
 
 ## Scoop 安装
@@ -24,6 +24,7 @@ scoop checkup
 
 #添加软件源
 scoop bucket add extras
+scoop bucket add nerd-fonts
 scoop bucket add dorado https://github.com/chawyehsu/dorado
 
 #*使用代理（clash）

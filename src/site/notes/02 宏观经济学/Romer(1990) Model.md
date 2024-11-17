@@ -176,7 +176,7 @@ $$
 其中：
 -  $N(t)$ 表示 $t$ 时刻投入品的种类；
 - $x(v,t)$ 表示 $t$ 时刻的第 $v$ 种投入品
-see also [[01 微观经济学/Dixit-Stiglitz Model\|Dixit-Stiglitz Model]]
+see also [[01 微观经济学/产业组织理论/Dixit-Stiglitz Model\|Dixit-Stiglitz Model]]
 
 经济资源约束为
 $$
