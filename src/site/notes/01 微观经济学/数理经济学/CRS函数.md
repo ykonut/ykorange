@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01 微观经济学/数理经济学/CRS函数/","title":"CRS","tags":["数理经济学"],"created":"2024-07-22T12:06:32.000+08:00","updated":"2024-09-09T10:51:00.494+08:00"}
+{"dg-publish":true,"permalink":"/01 微观经济学/数理经济学/CRS函数/","title":"CRS","tags":["数理经济学"],"created":"2024-07-22T12:06:32.000+08:00","updated":"2024-11-25T20:36:18.543+08:00"}
 ---
 
 定义：若 $f:\mathbb{R}^{n+m}\to\mathbb{R}$ 是自变量 $\mathbf{x}\in \mathbb{R}^n$ 和 $\mathbf{y}\in\mathbb{R}^m$ 的函数，满足
 $$
 f(t\mathbf{x},\mathbf{y})=tf(\mathbf{x},\mathbf{y})\quad \forall t>0
 $$
-则称 $f$ 关于 $\mathbf{x}$ 是$1$次齐次函数或 CRS 函数（constant return to scale function）。其中，参数 $t$ 称为自变量 $\mathbf{x}$ 的规模（scale）。
+则称 $f$ 是关于 $\mathbf{x}$ 的 $1$ 次齐次函数或 CRS 函数（constant return to scale function）。其中，参数 $t$ 称为自变量 $\mathbf{x}$ 的规模（scale）。
 
 ## 边际产出
 
