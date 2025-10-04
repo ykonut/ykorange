@@ -1,4 +1,0 @@
-.toc {
-  max-height: 70vh;  /* 目录高度约为页面高度的70% */
-  overflow-y: auto;  /* 超出部分显示滚动条 */
-}
