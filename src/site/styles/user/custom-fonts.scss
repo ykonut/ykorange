@@ -1,0 +1,22 @@
+/* ===== 引入网络字体 ===== */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&family=Noto+Serif+SC:wght@400;600&display=swap&subset=chinese-simplified');
+
+/* ===== 定义字体变量 ===== */
+$body-font: "Noto Sans SC", sans-serif;
+$heading-font: "Noto Serif SC", serif;
+$code-font: Consolas, Monaco, monospace;
+
+/* ===== 正文字体 ===== */
+body, .content {
+  font-family: $body-font;
+}
+
+/* ===== 标题字体 ===== */
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font;
+}
+
+/* ===== 代码块字体 ===== */
+pre, code {
+  font-family: $code-font;
+}
