@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/LATE/","tags":["因果推断"],"created":"2024-10-12T10:25:09.000+08:00","updated":"2025-08-20T16:14:50.484+08:00"}
+{"dg-publish":true,"permalink":"/计量经济学/LATE/","tags":["因果推断"]}
 ---
 
 For unit $i$, we have a binary instrument variable $Z_{i}$, a binary treatment indicator $D_{i}$, and an observed outcome $Y_{i}$.

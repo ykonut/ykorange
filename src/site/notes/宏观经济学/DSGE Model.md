@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/DSGE Model/","created":"2024-10-12T10:25:04.000+08:00","updated":"2025-09-02T11:09:28.000+08:00"}
+{"dg-publish":true,"permalink":"/宏观经济学/DSGE Model/"}
 ---
 
 ## 消费者

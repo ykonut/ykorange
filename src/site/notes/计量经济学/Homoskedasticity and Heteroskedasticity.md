@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Homoskedasticity and Heteroskedasticity/","created":"2025-01-08T17:29:14.000+08:00","updated":"2025-01-08T17:29:14.000+08:00"}
+{"dg-publish":true,"permalink":"/计量经济学/Homoskedasticity and Heteroskedasticity/"}
 ---
 
 ## Estimate Conditional Variance of Error

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/文字处理/Word制表符与制表位及其应用/","title":"Word制表符与制表位及其应用","tags":["word"],"created":"2025-04-03T19:19:11.569+08:00","updated":"2025-09-02T11:07:11.369+08:00"}
+{"dg-publish":true,"permalink":"/CS/文字处理/Word制表符与制表位及其应用/","title":"Word制表符与制表位及其应用","tags":["word"]}
 ---
 
 ## 使用软件：Microsoft office 365中的word

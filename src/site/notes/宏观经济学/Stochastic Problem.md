@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/Stochastic Problem/","created":"2024-10-12T10:24:51.000+08:00","updated":"2025-09-02T11:09:53.337+08:00"}
+{"dg-publish":true,"permalink":"/宏观经济学/Stochastic Problem/"}
 ---
 
 ## Consumption-Saving Problem

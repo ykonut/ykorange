@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Linear CEF Model/","created":"2025-08-20T11:56:57.000+08:00","updated":"2025-08-20T11:56:57.000+08:00"}
+{"dg-publish":true,"permalink":"/计量经济学/Linear CEF Model/"}
 ---
 
 > [!ABSTRACT]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/速查表/Scoop备忘录/","created":"2024-10-12T10:25:21.000+08:00","updated":"2024-10-12T10:25:21.000+08:00"}
+{"dg-publish":true,"permalink":"/CS/速查表/Scoop备忘录/"}
 ---
 
 ## Scoop 安装

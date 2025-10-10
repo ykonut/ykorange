@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Goodness-of-Fit/","created":"2025-01-08T17:29:14.000+08:00","updated":"2025-01-08T17:29:14.000+08:00"}
+{"dg-publish":true,"permalink":"/计量经济学/Goodness-of-Fit/"}
 ---
 
 ## Coefficient of determination

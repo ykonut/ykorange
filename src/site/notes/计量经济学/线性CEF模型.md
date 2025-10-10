@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/线性CEF模型/","tags":["线性模型"],"created":"2025-01-08T17:09:15.000+08:00","updated":"2025-08-20T16:14:14.863+08:00"}
+{"dg-publish":true,"permalink":"/计量经济学/线性CEF模型/","tags":["线性模型"]}
 ---
 
 > [!ABSTRACT]
