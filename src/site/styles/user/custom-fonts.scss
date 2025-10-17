@@ -1,13 +1,15 @@
 /* ===== 引入网络字体 ===== */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&family=Noto+Serif+SC:wght@400;600&display=swap&subset=chinese-simplified');
+@import("https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkaibright/dist/LXGWBright-SemiLight/result.css") 
+@import("https://chinese-fonts-cdn.deno.dev/packages/syst/dist/SourceHanSerifCN/result.css") 
+@import("https://chinese-fonts-cdn.deno.dev/packages/maple-mono-cn/dist/MapleMono-CN-Regular/result.css") 
 
 /* ===== 定义字体变量 ===== */
-$body-font: "Noto Sans SC", sans-serif;
-$heading-font: "Noto Serif SC", serif;
-$code-font: Consolas, Monaco, monospace;
+$body-font: "LXGW Bright SemiLight", sans-serif;
+$heading-font: "Source Han Serif CN VF", serif;
+$code-font: "Maple Mono CN", Consolas, Monaco, monospace;
 
 /* ===== 正文字体 ===== */
-body, .content {
+body {
   font-family: $body-font;
 }
 
