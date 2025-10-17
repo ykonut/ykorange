@@ -75,7 +75,7 @@ $$
 $$
 \lim_{t\to \infty}\left[ k(t)e^{-(A-\delta-n)t} \right]=0
 $$
-上述结果与 [[宏观经济学/Ramsey-Cass-Koopmans Model\|Ramsey-Cass-Koopmans Model]] 相比最突出的是，消费增长率为常数，与资本存量 $k(t)$ 无关，甚至可以直接求出 $c(t)$ 的路径（see [[宏观经济学/常微分方程\|常微分方程]] ）：
+上述结果与 [[宏观经济学/Ramsey-Cass-Koopmans Model\|Ramsey-Cass-Koopmans Model]] 相比最突出的是，消费增长率为常数，与资本存量 $k(t)$ 无关，甚至可以直接求出 $c(t)$ 的路径（see [[Math&Stats/常微分方程\|常微分方程]] ）：
 $$
 c(t)=c(0)\exp\left[ \frac{1}{\theta}(A-\delta-\rho)t \right]
 $$

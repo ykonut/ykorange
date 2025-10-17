@@ -187,7 +187,7 @@ $$
 $$
 \dot{k}(t)\approx \lambda k-\lambda k^*
 $$
-套用 [[宏观经济学/常微分方程\|常微分方程]] 通解公式
+套用 [[Math&Stats/常微分方程\|常微分方程]] 通解公式
 $$
 \begin{align}
 k(t)&\approx Ae^{\lambda t}+e^{\lambda t}\int e^{-\lambda t}(-\lambda k^*) \, dt  \\
