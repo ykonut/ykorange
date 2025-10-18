@@ -1,0 +1,19 @@
+/* ===== 引入网络字体 ===== */
+@import url("https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkaibright/dist/LXGWBright-SemiLight/result.css");
+@import url("https://chinese-fonts-cdn.deno.dev/packages/syst/dist/SourceHanSerifCN/result.css");
+@import url("https://chinese-fonts-cdn.deno.dev/packages/maple-mono-cn/dist/MapleMono-CN-Regular/result.css");
+
+/* ===== 正文字体 ===== */
+body {
+  font-family: "LXGW Bright SemiLight", sans-serif;
+}
+
+/* ===== 标题字体 ===== */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Source Han Serif CN VF", serif;
+}
+
+/* ===== 代码块字体 ===== */
+pre, code {
+  font-family: "Maple Mono CN", Consolas, Monaco, monospace;
+}
