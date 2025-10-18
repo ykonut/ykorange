@@ -1,3 +1,11 @@
+:root {
+  text-autospace: normal;
+}
+
+@import url("https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkaibright/dist/LXGWBright-SemiLight/result.css");
+@import url("https://chinese-fonts-cdn.deno.dev/packages/syst/dist/SourceHanSerifCN/result.css");
+@import url("https://chinese-fonts-cdn.deno.dev/packages/maple-mono-cn/dist/MapleMono-CN-Regular/result.css");
+
 body {
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
@@ -10,4 +18,14 @@ body {
     //  h1 {
     //   color: black;
     //  }
+
+    font-family: "LXGW Bright SemiLight", sans-serif;
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: "Source Han Serif CN VF", serif;
+    }
+
+    pre, code {
+      font-family: "Maple Mono CN", Consolas, Monaco, monospace;
+    }
 }
