@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/Solow Model/","created":"2024-10-12T10:25:03.000+08:00","updated":"2024-10-12T10:25:03.000+08:00"}
+{"dg-publish":true,"permalink":"/宏观经济学/Solow Model/"}
 ---
 
 
@@ -187,7 +187,7 @@ $$
 $$
 \dot{k}(t)\approx \lambda k-\lambda k^*
 $$
-套用 [[宏观经济学/常微分方程\|常微分方程]] 通解公式
+套用 [[Math&Stats/常微分方程\|常微分方程]] 通解公式
 $$
 \begin{align}
 k(t)&\approx Ae^{\lambda t}+e^{\lambda t}\int e^{-\lambda t}(-\lambda k^*) \, dt  \\

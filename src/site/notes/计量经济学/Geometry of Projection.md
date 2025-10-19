@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Geometry of Projection/","created":"2025-08-20T11:56:55.000+08:00","updated":"2025-08-20T11:56:55.000+08:00"}
+{"dg-publish":true,"permalink":"/计量经济学/Geometry of Projection/"}
 ---
 
 

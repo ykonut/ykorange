@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Linear Projection Model/","tags":["线性模型"],"created":"2025-01-05T17:06:23.000+08:00","updated":"2025-08-20T16:14:14.866+08:00"}
+{"dg-publish":true,"permalink":"/计量经济学/Linear Projection Model/","tags":["线性模型"]}
 ---
 
 > [!ABSTRACT]

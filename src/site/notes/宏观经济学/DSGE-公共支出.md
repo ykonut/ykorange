@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/DSGE-公共支出/","created":"2024-10-12T10:25:08.000+08:00","updated":"2025-09-12T18:57:53.490+08:00"}
+{"dg-publish":true,"permalink":"/宏观经济学/DSGE-公共支出/"}
 ---
 
 ## 消费者

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/文字处理/Word宏/","tags":["word"],"created":"2025-04-07T13:10:14.541+08:00","updated":"2025-09-02T11:06:35.770+08:00"}
+{"dg-publish":true,"permalink":"/CS/文字处理/Word宏/","tags":["word"]}
 ---
 
 标题自动编号

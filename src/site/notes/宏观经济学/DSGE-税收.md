@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/DSGE-税收/","created":"2024-10-12T10:25:16.000+08:00","updated":"2025-09-12T18:57:53.491+08:00"}
+{"dg-publish":true,"permalink":"/宏观经济学/DSGE-税收/"}
 ---
 
 考虑一次性税收，预算约束为

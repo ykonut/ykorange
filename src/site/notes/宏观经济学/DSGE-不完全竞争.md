@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/DSGE-不完全竞争/","created":"2024-10-12T10:25:04.000+08:00","updated":"2025-09-12T18:57:53.488+08:00"}
+{"dg-publish":true,"permalink":"/宏观经济学/DSGE-不完全竞争/"}
 ---
 
 ## 消费者

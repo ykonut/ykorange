@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/微观经济学/博弈论/Cournot模型/","created":"2024-10-12T10:24:59.000+08:00","updated":"2024-10-12T10:24:59.000+08:00"}
+{"dg-publish":true,"permalink":"/微观经济学/博弈论/Cournot模型/"}
 ---
 
 
