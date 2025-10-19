@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/CS/速查表/Scoop备忘录/"}
+{"dg-publish":true,"permalink":"/CS/速查表/Scoop备忘录/","created":"2025-09-12 19:18","updated":"2025-10-19 09:38"}
 ---
+
 
 ## Scoop 安装
 
@@ -61,7 +62,7 @@ scoop cleanup <app> # 删除某软件的旧版本
 scoop cleanup * -k # 删除过期的下载缓存
 ```
 
-## 重装系统后重新链接Scoop
+## 重装系统后重新链接 Scoop
 
 [How to use scoop after reinstalling the system](https://github.com/ScoopInstaller/Scoop/issues/2894)
 
@@ -73,8 +74,6 @@ $env:SCOOP='D:\ProgramFiles\Scoop'
 #将D:\ProgramFiles\Scoop\shims加入Path（管理员）
 [environment]::setEnvironmentVariable('PATH',$env:PATH + ';D:\ProgramFiles\Scoop\shims','Machine')
 ```
-
-
 
 ## 参考资料
 

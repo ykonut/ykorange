@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/书架/WhyTherapyWorks/","title":"WhyTherapyWorks"}
+{"dg-publish":true,"permalink":"/书架/WhyTherapyWorks/","title":"WhyTherapyWorks","created":"2025-10-10 12:11","updated":"2025-10-10 13:04"}
 ---
 
 
 ![cover](https://s2.loli.net/2025/10/10/f8dOTNjGK1qcx2k.png)
 
-## 目录
-
+# 目录
 
   - Acknowledgements
   - Preface
@@ -30,10 +29,10 @@
   - 15. Pain Is Inevitable; Suffering Is Optional
   - Index
 
-## 书评
+# 书评
 
-Part One非常有意思，很好地解释了心理治疗背后的生理基础。Part Two堪称画风突变，我几乎怀疑作者突然换了，也许所谓的Alpha/Beta人格是国外的热词，但给人的感觉太像臭名昭著的成功学了，忍不住跳过。Part Three比较像随笔，故事还算有意思。总体上视角新颖，不过似乎也并不十分专业，更像是一本神经科学爱好者作品。
+Part One 非常有意思，很好地解释了心理治疗背后的生理基础。Part Two 堪称画风突变，我几乎怀疑作者突然换了，也许所谓的 Alpha/Beta 人格是国外的热词，但给人的感觉太像臭名昭著的成功学了，忍不住跳过。Part Three 比较像随笔，故事还算有意思。总体上视角新颖，不过似乎也并不十分专业，更像是一本神经科学爱好者作品。
 
 <p align="right">2025-10-03</p>
 
-## 书摘
+# 书摘
