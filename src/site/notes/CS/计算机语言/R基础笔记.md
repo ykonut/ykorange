@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/计算机语言/R基础笔记/","created":"2025-11-02 15:25","updated":"2025-11-10 17:26"}
+{"dg-publish":true,"permalink":"/CS/计算机语言/R基础笔记/","created":"2025-11-02 15:25","updated":"2025-11-11 16:05"}
 ---
 
 
@@ -23,7 +23,6 @@ example(solve)
 
 # 命令行
 
-
 ```zsh
 R  # 进入R环境
 source("script.r") #执行R脚本
@@ -32,6 +31,7 @@ q() # 退出R环境
 ```
 
 输出展示和保存
+
 ```R
 ( x<-1:10 ) # 加括号可以在赋值的同时也打印结果
 dput(x) # 打印对象的纯文本表示
