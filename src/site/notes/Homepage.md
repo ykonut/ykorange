@@ -33,24 +33,23 @@
   如有想交流的内容，欢迎通过电子邮件与我联系。
 </p>
 
+<style>
+  .email-icon {
+    text-decoration: none !important;
+  }
+  .email-icon img {
+    transition: transform 0.25s ease, filter 0.25s ease;
+  }
+  .email-icon:hover img {
+    transform: scale(1.18);
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.25));
+  }
+</style>
+
 <p style="text-align:center; margin-top:10px;">
-
-  <style>
-    .email-icon {
-      text-decoration: none !important;
-    }
-    .email-icon img {
-      transition: transform 0.25s ease, filter 0.25s ease;
-    }
-    .email-icon:hover img {
-      transform: scale(1.18);
-      filter: drop-shadow(0 4px 8px rgba(0,0,0,0.25));
-    }
-  </style>
-
   <a class="email-icon" href="mailto:ykonut@outlook.com">
     <img src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" 
          width="36">
   </a>
-
 </p>
+
