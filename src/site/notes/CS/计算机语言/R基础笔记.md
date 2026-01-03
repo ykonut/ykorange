@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/计算机语言/R基础笔记/","created":"2025-11-02 15:25","updated":"2025-11-11 16:05"}
+{"dg-publish":true,"permalink":"/CS/计算机语言/R基础笔记/","created":"2025-11-02 15:25","updated":"2025-12-24 16:57"}
 ---
 
 
@@ -194,6 +194,8 @@ detach(data)
 # 方法三：临时加入命名空间
 with(data,plot(var1,var2))
 ```
+
+`subset()`
 
 ## 模型
 
