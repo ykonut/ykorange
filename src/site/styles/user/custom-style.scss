@@ -1,31 +1,46 @@
-:root {
-  text-autospace: normal;
-}
+// :root {
+//   text-autospace: normal;
+// }
 
-@import url("https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkaibright/dist/LXGWBright-SemiLight/result.css");
-@import url("https://chinese-fonts-cdn.deno.dev/packages/syst/dist/SourceHanSerifCN/result.css");
-@import url("https://chinese-fonts-cdn.deno.dev/packages/maple-mono-cn/dist/MapleMono-CN-Regular/result.css");
+// @import url("https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkaibright/dist/LXGWBright-SemiLight/result.css");
+// @import url("https://chinese-fonts-cdn.deno.dev/packages/syst/dist/SourceHanSerifCN/result.css");
+// @import url("https://chinese-fonts-cdn.deno.dev/packages/maple-mono-cn/dist/MapleMono-CN-Regular/result.css");
 
-body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+// body {
+//     /***
+//       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
+//       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+//    ***/
+//     //  background-color: white;
+//     //  .content {
+//     //   font-size: 14px;
+//     //  }
+//     //  h1 {
+//     //   color: black;
+//     //  }
 
-    font-family: "LXGW Bright SemiLight", sans-serif;
+//     font-family: "LXGW Bright SemiLight", sans-serif;
 
-    h1, h2, h3, h4, h5, h6 {
-      font-family: "Source Han Serif CN VF", serif;
-    }
+//     h1, h2, h3, h4, h5, h6 {
+//       font-family: "Source Han Serif CN VF", serif;
+//     }
 
-    pre, code {
-      font-family: "Maple Mono CN", Consolas, Monaco, monospace;
-    }
+//     pre, code {
+//       font-family: "Maple Mono CN", Consolas, Monaco, monospace;
+//     }
+// }
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');
+
+body,
+.content,
+.workspace,
+.markdown-preview-view,
+.markdown-source-view {
+    font-family:
+        'Noto Serif SC',
+        'Source Han Serif SC',
+        'Noto Serif CJK SC',
+        'Songti SC',
+        'SimSun',
+        serif !important;
 }
