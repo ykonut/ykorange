@@ -11,3 +11,19 @@ body {
     //   color: black;
     //  }
 }
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');
+
+body,
+.content,
+.workspace,
+.markdown-preview-view,
+.markdown-source-view {
+    font-family:
+        'Noto Serif SC',
+        'Source Han Serif SC',
+        'Noto Serif CJK SC',
+        'Songti SC',
+        'SimSun',
+        serif !important;
+}
+
