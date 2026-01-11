@@ -57,7 +57,7 @@ body {
 //   text-autospace: normal;
 // }
 
-@import url("https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkaibright/dist/LXGWBright-SemiLight/result.css");
+@import url("https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkaibright/dist/LXGWBright-Medium/result.css");
 @import url("https://chinese-fonts-cdn.deno.dev/packages/syst/dist/SourceHanSerifCN/result.css");
 @import url("https://chinese-fonts-cdn.deno.dev/packages/maple-mono-cn/dist/MapleMono-CN-Regular/result.css");
 
@@ -68,27 +68,23 @@ body,
 .markdown-preview-view,
 .markdown-source-view {
     font-family:
-        "LXGW Bright SemiLight",
+        "LXGW Bright Medium",
         "LXGW WenKai",
         "PingFang SC",
-        "Hiragino Sans GB",
         "Microsoft YaHei",
         sans-serif !important;
-
-    line-height: 1.8;
 }
 
 /* 标题体系：思源宋体（学术书籍风） */
 h1, h2, h3, h4, h5, h6 {
     font-family:
         "Source Han Serif CN VF",
-        "Source Han Serif CN",
+        'Source Han Serif SC',
+        'Noto Serif SC',
         "Noto Serif CJK SC",
         "Songti SC",
         "SimSun",
         serif !important;
-
-    letter-spacing: 0.03em;
 }
 
 /* 代码体系：Maple Mono CN（中英文等宽统一） */
@@ -103,20 +99,11 @@ samp,
         Consolas,
         Menlo,
         Monaco,
-        "DejaVu Sans Mono",
         monospace !important;
-
-    line-height: 1.65;
-    text-shadow: none !important;
-    -webkit-font-smoothing: antialiased !important;
-    -moz-osx-font-smoothing: grayscale !important;
 }
 
-/* 仅消除高亮代码块的阴影 / stroke，不再碰字体 */
 code[class*="language-"],
 pre[class*="language-"] {
     text-shadow: none !important;
     -webkit-text-stroke: 0 !important;
 }
-
-
