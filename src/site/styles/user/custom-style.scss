@@ -44,3 +44,8 @@ body,
         'SimSun',
         serif !important;
 }
+code[class*='language-'], pre[class*='language-'] {
+  font-family: var(--font-default) !important;
+  text-shadow: none !important;
+  -webkit-text-stroke: 0 !important;
+}
