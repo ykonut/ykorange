@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/计算机语言/在Mac OS上使用VS code编写R——痛苦之路/","created":"2025-12-26 18:38","updated":"2025-12-29 16:29"}
+{"dg-publish":true,"permalink":"/CS/计算机语言/在Mac OS上使用VS code编写R——痛苦之路/","created":"2025-12-26 18:38","updated":"2026-02-03 10:30"}
 ---
 
 
@@ -77,6 +77,7 @@ RENV_CONFIG_PAK_ENABLED=TRUE
 安装插件：
 
 - [vscode-R](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r)（必备）
+- [Air](https://posit-dev.github.io/air/editor-vscode.html)
 - [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)（推荐）
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)（推荐）
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/计量经济学/Best Linear Unbiased Estimator/"}
 ---
 
-[[Linear Regression Model#模型设定\|Linear Regression Model#模型设定]]如下
+[[计量经济学/Linear Regression Model#模型设定\|Linear Regression Model#模型设定]]如下
 $$
 \begin{gather*}
 \begin{cases}
@@ -106,7 +106,7 @@ $$
 > ①-⑤称为 Gauss–Markov assumptions
 > ①-⑥称为 classical linear model assumptions
 > 
-> ①②构成了 [[Linear CEF Model\|Linear CEF Model]] ，③保证了样本独立同分布，④保证了参数估计量有数值解，①-④即可得出无偏性。⑤可得出参数估计量的理想条件方差但并不现实，因此有必要使用各种稳健标准误。⑥用于统计推断但直接假设缺乏说服力，最好借助中心极限定理和渐进理论。
+> ①②构成了 [[计量经济学/Linear CEF Model\|Linear CEF Model]] ，③保证了样本独立同分布，④保证了参数估计量有数值解，①-④即可得出无偏性。⑤可得出参数估计量的理想条件方差但并不现实，因此有必要使用各种稳健标准误。⑥用于统计推断但直接假设缺乏说服力，最好借助中心极限定理和渐进理论。
 > 
 
 ```mermaid
