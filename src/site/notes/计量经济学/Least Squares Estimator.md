@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Least Squares Estimator/"}
+{"dg-publish":true,"permalink":"/计量经济学/Least Squares Estimator/","dg-note-properties":{}}
 ---
 
 ## Definition

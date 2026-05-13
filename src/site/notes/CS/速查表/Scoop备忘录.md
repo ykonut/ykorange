@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/速查表/Scoop备忘录/","created":"2025-09-12 19:18","updated":"2025-10-19 09:38"}
+{"dg-publish":true,"permalink":"/CS/速查表/Scoop备忘录/","created":"2025-09-12 19:18","updated":"2025-10-19 09:38","dg-note-properties":{"date created":"2025-09-12 19:18","date modified":"2025-10-19 09:38","tags":[]}}
 ---
 
 

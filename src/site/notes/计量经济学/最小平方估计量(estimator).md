@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/最小平方估计量(estimator)/","title":"最小平方估计量","tags":["线性模型"],"created":"2025-01-06 22:04","updated":"2025-10-31 12:29"}
+{"dg-publish":true,"permalink":"/计量经济学/最小平方估计量(estimator)/","title":"最小平方估计量","tags":["线性模型"],"created":"2025-01-06 22:04","updated":"2025-10-31 12:29","dg-note-properties":{"date created":"2025-01-06 22:04","date modified":"2025-10-31 12:29","tags":["线性模型"],"title":"最小平方估计量","title_en":"Least Squares Estimator"}}
 ---
 
 

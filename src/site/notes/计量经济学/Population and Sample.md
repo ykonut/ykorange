@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Population and Sample/"}
+{"dg-publish":true,"permalink":"/计量经济学/Population and Sample/","dg-note-properties":{}}
 ---
 
 ## 定义

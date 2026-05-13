@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/LATE/","tags":["因果推断"],"created":"2025-09-12 19:18","updated":"2025-12-30 10:52"}
+{"dg-publish":true,"permalink":"/计量经济学/LATE/","tags":["因果推断"],"created":"2025-09-12 19:18","updated":"2025-12-30 10:52","dg-note-properties":{"date created":"2025-09-12 19:18","date modified":"2025-12-30 10:52","tags":["因果推断"]}}
 ---
 
 

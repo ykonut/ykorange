@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Homoskedasticity and Heteroskedasticity/","created":"2025-09-12 19:08","updated":"2025-11-04 16:52"}
+{"dg-publish":true,"permalink":"/计量经济学/Homoskedasticity and Heteroskedasticity/","created":"2025-09-12 19:08","updated":"2025-11-04 16:52","dg-note-properties":{"date created":"2025-09-12 19:08","date modified":"2025-11-04 16:52","tags":[]}}
 ---
 
 

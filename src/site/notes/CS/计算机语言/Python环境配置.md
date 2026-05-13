@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/计算机语言/Python环境配置/","created":"2024-12-17 20:37","updated":"2025-10-21 15:34"}
+{"dg-publish":true,"permalink":"/CS/计算机语言/Python环境配置/","created":"2024-12-17 20:37","updated":"2025-10-21 15:34","dg-note-properties":{"date created":"2024-12-17 20:37","date modified":"2025-10-21 15:34","tags":[]}}
 ---
 
 

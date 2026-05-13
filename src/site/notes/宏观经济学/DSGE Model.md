@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/DSGE Model/"}
+{"dg-publish":true,"permalink":"/宏观经济学/DSGE Model/","dg-note-properties":{}}
 ---
 
 ## 消费者

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/微观经济学/数理经济学/CIES效用函数/","tags":["数理经济学"]}
+{"dg-publish":true,"permalink":"/微观经济学/数理经济学/CIES效用函数/","tags":["数理经济学"],"dg-note-properties":{"tags":"数理经济学"}}
 ---
 
 ## 定义

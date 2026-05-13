@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/速查表/Glob表达式基础/","created":"2024-10-12 10:25","updated":"2025-10-19 09:38"}
+{"dg-publish":true,"permalink":"/CS/速查表/Glob表达式基础/","created":"2024-10-12 10:25","updated":"2025-10-19 09:38","dg-note-properties":{"date created":"2024-10-12 10:25","date modified":"2025-10-19 09:38","tags":[],"link":"https://en.wikipedia.org/wiki/Glob_(programming)"}}
 ---
 
 

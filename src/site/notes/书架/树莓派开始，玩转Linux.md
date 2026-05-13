@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/书架/树莓派开始，玩转Linux/","title":"树莓派开始，玩转Linux"}
+{"dg-publish":true,"permalink":"/书架/树莓派开始，玩转Linux/","title":"树莓派开始，玩转Linux","dg-note-properties":{"doubanId":30259573,"title":"树莓派开始，玩转Linux","subTitle":null,"originalTitle":null,"series":null,"type":"book","author":["Vamei","周昕梓"],"cover":"https://s2.loli.net/2025/10/10/XhFkVQ18JGUoDeg.png","score":9.2,"scoreStar":"⭐⭐⭐⭐","myRating":5,"myRatingStar":"⭐⭐⭐⭐⭐","datePublished":"2018-06-27","translator":null,"publisher":"电子工业出版社","producer":null,"isbn":9787121342660,"url":"https://book.douban.com/subject/30259573/","totalPage":356,"price":69,"tags":null,"state":"看过","binding":"其他","collectionDate":"2020-10-24","desc":"本书以树莓派基础工具，讲解Linux操作系统。树莓派是近年来流行的微型电脑，能用于各种有趣的硬件开发。树莓派中安装了Linux系统，可以充当操作系统的学习平台。本书按照“树莓派背景知识——树莓派使用——Linux使用——操作系统原理——实操项目”的顺序展开。读者不仅能体验到玩树莓派的乐趣，而且能全面了解操作系统的核心概念和原理。张腾飞，笔名Vamei，中国科学技术大学学士，南洋理工大学博士。他著有《从Python开始学编程》一书，并写作了Java、网络协议、数据分析等方面的教程。他的博客访问量超过800万。现从事智能农业领域的创新创业。周昕梓。本科毕业于南洋理工大学计算机科学与工程学院。现从事 Hyperledger 区块链相关软件开发工作。"}}
 ---
 
 

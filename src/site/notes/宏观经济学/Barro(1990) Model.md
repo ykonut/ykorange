@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/Barro(1990) Model/"}
+{"dg-publish":true,"permalink":"/宏观经济学/Barro(1990) Model/","dg-note-properties":{}}
 ---
 
 

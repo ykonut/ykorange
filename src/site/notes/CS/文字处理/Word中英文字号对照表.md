@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/文字处理/Word中英文字号对照表/","tags":["word"],"created":"2025-09-12 19:08","updated":"2025-11-21 19:37"}
+{"dg-publish":true,"permalink":"/CS/文字处理/Word中英文字号对照表/","tags":["word"],"created":"2025-09-12 19:08","updated":"2025-11-21 19:37","dg-note-properties":{"date created":"2025-09-12 19:08","date modified":"2025-11-21 19:37","tags":["word"]}}
 ---
 
 

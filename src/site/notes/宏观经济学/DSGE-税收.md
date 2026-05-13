@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/DSGE-税收/"}
+{"dg-publish":true,"permalink":"/宏观经济学/DSGE-税收/","dg-note-properties":{}}
 ---
 
 考虑一次性税收，预算约束为

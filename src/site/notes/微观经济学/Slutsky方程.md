@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/微观经济学/Slutsky方程/","tags":["需求理论"],"created":"2025-09-12 18:58","updated":"2025-10-21 18:28"}
+{"dg-publish":true,"permalink":"/微观经济学/Slutsky方程/","tags":["需求理论"],"created":"2025-09-12 18:58","updated":"2025-10-21 18:28","dg-note-properties":{"date created":"2025-09-12 18:58","date modified":"2025-10-21 18:28","tags":["需求理论"]}}
 ---
 
 

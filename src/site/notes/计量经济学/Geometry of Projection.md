@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Geometry of Projection/"}
+{"dg-publish":true,"permalink":"/计量经济学/Geometry of Projection/","dg-note-properties":{}}
 ---
 
 

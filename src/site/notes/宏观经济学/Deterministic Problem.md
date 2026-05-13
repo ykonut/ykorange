@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/Deterministic Problem/"}
+{"dg-publish":true,"permalink":"/宏观经济学/Deterministic Problem/","dg-note-properties":{}}
 ---
 
 ## Consumption-Saving Problem

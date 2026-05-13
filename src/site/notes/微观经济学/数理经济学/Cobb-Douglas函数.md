@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/微观经济学/数理经济学/Cobb-Douglas函数/","tags":["数理经济学"],"created":"2025-09-12 18:58","updated":"2025-11-08 12:30"}
+{"dg-publish":true,"permalink":"/微观经济学/数理经济学/Cobb-Douglas函数/","tags":["数理经济学"],"created":"2025-09-12 18:58","updated":"2025-11-08 12:30","dg-note-properties":{"date created":"2025-09-12 18:58","date modified":"2025-11-08 12:30","tags":["数理经济学"]}}
 ---
 
 

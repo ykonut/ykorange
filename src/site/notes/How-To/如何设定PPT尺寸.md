@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/How-To/如何设定PPT尺寸/","tags":["PPT"],"created":"2025-09-21 18:50","updated":"2025-12-25 09:42"}
+{"dg-publish":true,"permalink":"/How-To/如何设定PPT尺寸/","tags":["PPT"],"created":"2025-09-21 18:50","updated":"2025-12-25 09:42","dg-note-properties":{"date created":"2025-09-21 18:50","date modified":"2025-12-25 09:42","tags":["PPT"],"title":null}}
 ---
 
 

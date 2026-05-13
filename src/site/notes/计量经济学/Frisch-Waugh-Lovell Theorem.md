@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Frisch-Waugh-Lovell Theorem/"}
+{"dg-publish":true,"permalink":"/计量经济学/Frisch-Waugh-Lovell Theorem/","dg-note-properties":{}}
 ---
 
 ## 分块回归

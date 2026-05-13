@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Linear CEF Model/"}
+{"dg-publish":true,"permalink":"/计量经济学/Linear CEF Model/","dg-note-properties":{}}
 ---
 
 > [!ABSTRACT]

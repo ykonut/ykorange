@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/计算机语言/R基础笔记/","created":"2025-11-02 15:25","updated":"2025-12-24 16:57"}
+{"dg-publish":true,"permalink":"/CS/计算机语言/R基础笔记/","created":"2025-11-02 15:25","updated":"2025-12-24 16:57","dg-note-properties":{"date created":"2025-11-02 15:25","date modified":"2025-12-24 16:57","tags":[]}}
 ---
 
 
@@ -147,7 +147,7 @@ unname(sapply(alist[c("a", "c")], identity))
 
 不完全一样。
 
-简要说明：list[1] 返回一个长度为 1 的子列表（仍是 list）；list[[1\|1]] 返回第 1 个元素本身（元素的类型可能是向量、data.frame、list 等）。unname() 去掉的是对象的 names 属性：对 list[1] 去名后仍是一个长度 1 的 list；对 list[[1]] 去名则是去掉该元素的名字（如果它有名字）。
+简要说明：list[1] 返回一个长度为 1 的子列表（仍是 list）；list[[1\|1]] 返回第 1 个元素本身（元素的类型可能是向量、data.frame、list 等）。unname() 去掉的是对象的 names 属性：对 list[1] 去名后仍是一个长度 1 的 list；对 list[[1\|1]] 去名则是去掉该元素的名字（如果它有名字）。
 
 ```R
 # R
@@ -159,18 +159,18 @@ lst[1]
 unname(lst[1])
 # -> list(1:3)      # 仍是一个 list（只是没有名字）
 
-lst[[1]]
+lst[[1\|1]]
 # -> 1 2 3          # 直接是数值向量
 
-identical(unname(lst[1]), lst[[1]])
+identical(unname(lst[1]), lst[[1\|1]])
 # -> FALSE
 
 # 若要比较子列表中实际元素与提取元素是否相同：
-identical(unname(lst[1])[[1]], lst[[1]])
+identical(unname(lst[1])[[1\|1]], lst[[1\|1]])
 # -> TRUE
 
-# 若想得到没有名字的元素，使用 unname(lst[[1]])
-unname(lst[[1]])
+# 若想得到没有名字的元素，使用 unname(lst[[1\|1]])
+unname(lst[[1\|1]])
 ```
 
 ## 数据框
@@ -218,7 +218,7 @@ with(data,plot(var1,var2))
 - 使用 `summary(model)` 返回回归表格
 - 使用 `nobs(model)` 返回观测值数量
 - 使用 `coef(model)["var1"]` 或 `coef(model)[1]` 返回回归系数向量**切片**
-- 使用 `coef(model)[["var1"]]` 或 `coef(model)[[1]]` 返回回归系数向量**切片的值**
+- 使用 `coef(model)[["var1"]]` 或 `coef(model)[[1\|1]]` 返回回归系数向量**切片的值**
 
 其他可用变量如下表所示：
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/Romer(1986) Model/"}
+{"dg-publish":true,"permalink":"/宏观经济学/Romer(1986) Model/","dg-note-properties":{}}
 ---
 
 

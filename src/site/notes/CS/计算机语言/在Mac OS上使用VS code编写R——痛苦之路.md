@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CS/计算机语言/在Mac OS上使用VS code编写R——痛苦之路/","created":"2025-12-26 18:38","updated":"2026-02-03 10:30"}
+{"dg-publish":true,"permalink":"/CS/计算机语言/在Mac OS上使用VS code编写R——痛苦之路/","created":"2025-12-26 18:38","updated":"2026-02-03 10:30","dg-note-properties":{"date created":"2025-12-26 18:38","date modified":"2026-02-03 10:30","tags":[]}}
 ---
 
 

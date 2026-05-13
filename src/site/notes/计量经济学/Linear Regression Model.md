@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Linear Regression Model/","tags":["线性模型"]}
+{"dg-publish":true,"permalink":"/计量经济学/Linear Regression Model/","tags":["线性模型"],"dg-note-properties":{"tags":["线性模型"]}}
 ---
 
 ## 模型设定

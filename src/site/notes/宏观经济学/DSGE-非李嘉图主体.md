@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/DSGE-非李嘉图主体/"}
+{"dg-publish":true,"permalink":"/宏观经济学/DSGE-非李嘉图主体/","dg-note-properties":{}}
 ---
 
 非李嘉图主体是无法借贷、没有投资（收入全部用于消费）的消费者。假设消费者中比例为 $\omega$ 的部分是李嘉图主体，比例为 $1-\omega$ 的部分是非李嘉图主体。

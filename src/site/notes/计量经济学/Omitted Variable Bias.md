@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Omitted Variable Bias/"}
+{"dg-publish":true,"permalink":"/计量经济学/Omitted Variable Bias/","dg-note-properties":{}}
 ---
 
 ## 多元情形

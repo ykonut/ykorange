@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/DSGE-消费习惯/"}
+{"dg-publish":true,"permalink":"/宏观经济学/DSGE-消费习惯/","dg-note-properties":{}}
 ---
 
 ## 消费者

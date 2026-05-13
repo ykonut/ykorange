@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/Overlapping Generations Model/"}
+{"dg-publish":true,"permalink":"/宏观经济学/Overlapping Generations Model/","dg-note-properties":{}}
 ---
 
 

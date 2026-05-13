@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/Ramsey-Cass-Koopmans Model/"}
+{"dg-publish":true,"permalink":"/宏观经济学/Ramsey-Cass-Koopmans Model/","dg-note-properties":{}}
 ---
 
 

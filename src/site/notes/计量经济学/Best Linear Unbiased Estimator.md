@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/计量经济学/Best Linear Unbiased Estimator/"}
+{"dg-publish":true,"permalink":"/计量经济学/Best Linear Unbiased Estimator/","dg-note-properties":{}}
 ---
 
 [[计量经济学/Linear Regression Model#模型设定\|Linear Regression Model#模型设定]]如下

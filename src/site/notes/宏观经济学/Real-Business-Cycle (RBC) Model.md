@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/宏观经济学/Real-Business-Cycle (RBC) Model/"}
+{"dg-publish":true,"permalink":"/宏观经济学/Real-Business-Cycle (RBC) Model/","dg-note-properties":{}}
 ---
 
 ## 消费者

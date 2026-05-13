@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Homepage/","tags":["gardenEntry"],"created":"2025-12-02 15:37","updated":"2025-12-02 16:36"}
+{"dg-publish":true,"permalink":"/Homepage/","tags":["gardenEntry"],"created":"2025-12-02 15:37","updated":"2025-12-02 16:36","dg-note-properties":{"date created":"2025-12-02 15:37","date modified":"2025-12-02 16:36","tags":["gardenEntry"]}}
 ---
 
 
@@ -10,7 +10,7 @@
 
 ## 📚 内容总览
 
-- [[生活通识\|生活通识]] 总结了个人数字生活和日常生活经验。
+- [[数字生活指南\|数字生活指南]] 总结了个人数字生活和日常生活经验。
 - **微观经济学**、**宏观经济学**、**计量经济学**板块是本科和博士期间的笔记。
 - **CS**板块是计算机方面知识的笔记。
 - **书架**包含了本科以来我读过的书和简短书评。
