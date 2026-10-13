@@ -128,7 +128,7 @@ alist[1]
 alist["a"]
 
 #返回第一元素的值（vector）
-alist[[1\|1]]
+alist[[1]]
 alist[["a"]]
 alist$a
 
@@ -159,18 +159,18 @@ lst[1]
 unname(lst[1])
 # -> list(1:3)      # 仍是一个 list（只是没有名字）
 
-lst[[1\|1]]
+lst[[1]]
 # -> 1 2 3          # 直接是数值向量
 
-identical(unname(lst[1]), lst[[1\|1]])
+identical(unname(lst[1]), lst[[1]])
 # -> FALSE
 
 # 若要比较子列表中实际元素与提取元素是否相同：
-identical(unname(lst[1])[[1\|1]], lst[[1\|1]])
+identical(unname(lst[1])[[1]], lst[[1]])
 # -> TRUE
 
-# 若想得到没有名字的元素，使用 unname(lst[[1\|1]])
-unname(lst[[1\|1]])
+# 若想得到没有名字的元素，使用 unname(lst[[1]])
+unname(lst[[1]])
 ```
 
 ## 数据框
@@ -218,7 +218,7 @@ with(data,plot(var1,var2))
 - 使用 `summary(model)` 返回回归表格
 - 使用 `nobs(model)` 返回观测值数量
 - 使用 `coef(model)["var1"]` 或 `coef(model)[1]` 返回回归系数向量**切片**
-- 使用 `coef(model)[["var1"]]` 或 `coef(model)[[1\|1]]` 返回回归系数向量**切片的值**
+- 使用 `coef(model)[["var1"]]` 或 `coef(model)[[1]]` 返回回归系数向量**切片的值**
 
 其他可用变量如下表所示：
 

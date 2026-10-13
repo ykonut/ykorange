@@ -15,9 +15,7 @@ $$
 $$
 \begin{cases}
 E(Y^2)<\infty \\
-E(\|X\|
-{ #2}
-)<\infty \\
+E(\|X\| ^2)<\infty \\
 E(XX^{\mathsf{T}}) \text{ is positive definite.}
 \end{cases}
 \tag{2}

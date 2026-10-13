@@ -96,9 +96,7 @@ $$
 利润最大化问题为
 $$
 \begin{split}
-\max &\ E_{0}\sum_{t=0}^\infty \left( \frac{1}{1+r_{t}} \right)
-{ #t}
- \Pi_{t} \\
+\max &\ E_{0}\sum_{t=0}^\infty \left( \frac{1}{1+r_{t}} \right) ^t \Pi_{t} \\
 \text{s.t.} &\ \Pi_{t}=Y_{t}-w_{t}L_{t}-r_{t}K_{t} \\
 &\ Y_{t}=A_{t}K_{t}^\alpha L_{t}^{1-\alpha}
 \end{split}
